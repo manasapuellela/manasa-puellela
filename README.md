@@ -53,4 +53,33 @@ I build reliable backend systems, clean data pipelines, and practical AI-driven 
 Curious, fast-learning, and passionate about simplifying complex problems.  
 I enjoy building practical AI systems, improving every day, and sharing what I learn through small, consistent projects.
 
+---
+
+## 📌 Featured Projects
+
+### 1. 🧠 Iris Classification (ML Basics)
+A clean, end-to-end ML workflow covering EDA → scaling → training → evaluation.
+
+📁 `ai-ml-experiments/notebooks/01_iris_classification.ipynb`  
+🔧 *Tech:* Pandas, NumPy, scikit-learn, Matplotlib  
+
+---
+
+### 2. 🚢 Titanic Survival Prediction (Full Pipeline)
+A real-world ML pipeline with preprocessing, feature engineering, one-hot encoding, scaling, Random Forests, and model evaluation.
+
+📁 `ai-ml-experiments/notebooks/02_titanic_survival_prediction.ipynb`  
+🔧 *Tech:* Pipelines, ColumnTransformer, Imputers, Random Forest  
+
+---
+
+### 3. 🔍 Embeddings + Semantic Search (Modern AI)
+Vector embeddings using Sentence Transformers with semantic similarity search.  
+A perfect intro project for LLM/RAG/AI engineering.
+
+📁 `ai-ml-experiments/notebooks/03_embeddings_semantic_search.ipynb`  
+🔧 *Tech:* Embeddings, cosine similarity, sentence-transformers, vector search  
+
+---
+
 
